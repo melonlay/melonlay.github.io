@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e624d761140d0518227da5ebb0afdd1",
+    "revision": "e773b6d004834052f1bebb533ce691eb",
     "url": "/recitation/index.html"
   },
   {
-    "revision": "856a32528280298ca902",
+    "revision": "85992c5acfcc81c1fe0c",
     "url": "/recitation/static/css/main.250591aa.chunk.css"
   },
   {
@@ -16,12 +16,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/recitation/static/js/2.913364b0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "856a32528280298ca902",
-    "url": "/recitation/static/js/main.40154890.chunk.js"
+    "revision": "85992c5acfcc81c1fe0c",
+    "url": "/recitation/static/js/main.c119e3b3.chunk.js"
   },
   {
     "revision": "4744c93f019da1bbb7f8",
     "url": "/recitation/static/js/runtime-main.8dbd2fa3.js"
+  },
+  {
+    "revision": "835975874db178f9560f0d30e9e3de3b",
+    "url": "/recitation/static/media/S1_01.83597587.mp3"
+  },
+  {
+    "revision": "6d4fba7d44148ede33a0ed6abd73bf69",
+    "url": "/recitation/static/media/S2_01.6d4fba7d.mp3"
+  },
+  {
+    "revision": "770647369cf68d29637c5461411b7412",
+    "url": "/recitation/static/media/S3_01.77064736.mp3"
   },
   {
     "revision": "ea66968057478e75ce6cebd143ab9fe7",
