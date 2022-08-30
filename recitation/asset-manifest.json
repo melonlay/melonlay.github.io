@@ -10,6 +10,7 @@
     "index.html": "/recitation/index.html",
     "precache-manifest.6fac89f946029c8b5c0c19b9d088fc54.js": "/recitation/precache-manifest.6fac89f946029c8b5c0c19b9d088fc54.js",
     "service-worker.js": "/recitation/service-worker.js",
+    "favicon.ico":"/recitation/favicon.ico",
     "static/css/main.250591aa.chunk.css.map": "/recitation/static/css/main.250591aa.chunk.css.map",
     "static/js/2.913364b0.chunk.js.LICENSE.txt": "/recitation/static/js/2.913364b0.chunk.js.LICENSE.txt",
     "static/media/S1_01.mp3": "/recitation/static/media/S1_01.83597587.mp3",
